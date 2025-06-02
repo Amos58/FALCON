@@ -1,2 +1,2 @@
-# FALCON
-implementation code and datasets about FALCON: A Fast and Lightweight Online Continual Learning System for Network Anomaly Detection
+# WaveFlow
+implementation code and datasets about Unsupervised Anomaly Detection via Multi-Resolution Wavelet Analysis for Cross-Domain Network Monitoring
